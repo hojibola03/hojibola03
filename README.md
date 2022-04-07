@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://freelancehunt.com/freelancer/hojibola03.html?from=shield&r=L4d63" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1138357/type/rating?style=for-the-badge&amp;lang=ru" alt="Freelancehunt - oddiy va halol freelancing"></a>
+<a href="https://freelancehunt.com/freelancer/hojibola03.html?from=shield&r=L4d63" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1138357/type/rating?style=social&amp;lang=ru&amp;showLogin=1" alt="Freelancehunt - oddiy va halol freelancing"></a>
